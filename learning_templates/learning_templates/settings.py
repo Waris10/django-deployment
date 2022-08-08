@@ -26,7 +26,7 @@ SECRET_KEY = 'bq^x)l2b3fdmredt34i@c*+my^!2he=x+k_o3_bqz)9f%*m+h@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [waris10.pythonanywhere.com]
+ALLOWED_HOSTS = ['waris10.pythonanywhere.com']
 
 
 # Application definition
